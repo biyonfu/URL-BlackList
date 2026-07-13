@@ -1,7 +1,5 @@
-conf.syzs.qq.com
 pos.baidu.com
-ludashi.com
-update.officeplus.cn
+covertrulebit.quest
 ss0112.hao21.click:89
 cmtuoy.cn
 softdl6.360tpcdn.com
@@ -34,7 +32,6 @@ senttiy.cn
 steam111.cn
 hen360.com
 yiyunnanj.com
-xiaoyisysreset.com
 souxkj.com
 xzwangy.cn
 weixind.cn
@@ -52,12 +49,10 @@ wqz168.com
 crarzss.cn
 cuanfeng.cn
 caohang.com.cn
-zhuangjidashi.cn
 073311.com
 dl.iduoyu.net
 ixiangya.net
 18wangluo.cn
-wannengzj.com
 wnyxh.cn
 flmgr.net
 softbutler.cn
