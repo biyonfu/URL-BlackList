@@ -1,4 +1,7 @@
 conf.syzs.qq.com
+softdl6.360tpcdn.com
+sedl.360tpcdn.com
+dl.360simg.com
 ludashicdn.com
 cdn-*.ludashi.com
 cdn*.ludashi.cn
